@@ -77,4 +77,4 @@ npx playwright show-report
 - `test-results/` — per-run test artifacts
 
 - Preferred commit message format: `Assignment: IT23149076 - <Gamage K.D.T.D> - <IT23149076>`
-- Zip the repository or provide the GitHub link per your lecturer's instructions.
+
