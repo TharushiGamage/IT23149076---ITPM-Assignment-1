@@ -5,10 +5,10 @@
 ---
 
 ## Overview
-This repository contains an end-to-end UI test suite built with Playwright for the translator project. The tests are structured for a university assignment; replace the placeholders below with your **student name**, **student ID**, and **module code**.
+This repository contains an end-to-end UI test suite built with Playwright for the translator project. The tests are structured for a university assignment; replace the placeholders below with your **Gamage K.D.T.D**, **IT23149076**, 
 
 ## Table of contents
-- [Overview](#overview)
+- [Overview](#overview)name
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Run tests](#run-tests)
@@ -76,21 +76,8 @@ npx playwright show-report
 - `playwright-report/` — generated HTML reports
 - `test-results/` — per-run test artifacts
 
-## Submission guidelines
-- Replace the placeholders below in this README with your own details:
-  - **Student name:** _Your Name_
-  - **Student ID:** _Your ID_
-  - **Module code:** _Module code_
-
-- Preferred commit message format: `Assignment: IT23149076 - <StudentName> - <StudentID>`
+- Preferred commit message format: `Assignment: IT23149076 - <Gamage K.D.T.D> - <IT23149076>`
 - Zip the repository or provide the GitHub link per your lecturer's instructions.
 
-> ⚠️ Make sure tests pass locally before submission and include any failing screenshots or notes if failures are expected.
-
-## Author
-- Student name: _Your Name_
-- Student ID: _Your ID_
-
 ---
-
 License: MIT (change if required by your institution)
