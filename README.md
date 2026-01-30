@@ -8,7 +8,7 @@
 This repository contains an end-to-end UI test suite built with Playwright for the translator project. The tests are structured for a university assignment; replace the placeholders below with your **Gamage K.D.T.D**, **IT23149076**, 
 
 ## Table of contents
-- [Overview](#overview)name
+- [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Run tests](#run-tests)
@@ -78,6 +78,3 @@ npx playwright show-report
 
 - Preferred commit message format: `Assignment: IT23149076 - <Gamage K.D.T.D> - <IT23149076>`
 - Zip the repository or provide the GitHub link per your lecturer's instructions.
-
----
-License: MIT (change if required by your institution)
